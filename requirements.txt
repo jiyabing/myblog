@@ -29,7 +29,7 @@ selenium==3.13.0
 six==1.11.0
 tornado==4.5.2
 tzlocal==1.5.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenvwrapper-win==1.2.5
 wxPython==4.0.1
